@@ -1,0 +1,9 @@
+cohere
+jupyterlab
+python-dotenv
+ipywidgets
+chromadb
+scikit-learn
+langchain-core
+langchain-text-splitters
+langchain-community
